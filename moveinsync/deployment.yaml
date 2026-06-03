@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: moveinsync
-        image: 711387119594.dkr.ecr.ap-south-1.amazonaws.com/moveinsync:18
+        image: 711387119594.dkr.ecr.ap-south-1.amazonaws.com/moveinsync:19
         ports:
         - containerPort: 8501
         resources:
